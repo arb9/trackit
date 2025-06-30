@@ -1,3 +1,5 @@
+a simple budgeting app to track expenses using swift ui, coredata and charts
+
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-20 at 12 19 24 copy](https://github.com/user-attachments/assets/e5e7e03c-18aa-4d8b-aa87-9058d9e3565e)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-20 at 12 19 34 copy](https://github.com/user-attachments/assets/6c0530ec-fc7f-42ae-a6e4-4bbc3d98d9d8)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-20 at 12 19 41 copy](https://github.com/user-attachments/assets/51f723da-46e1-4b6b-8900-24cec7b7ff89)
